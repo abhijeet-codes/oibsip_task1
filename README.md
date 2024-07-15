@@ -24,9 +24,7 @@ Owner - Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
 - **Accessibility**: Improve accessibility features to ensure a better experience for all users.
 - **SEO Optimization**: Enhance SEO to improve search engine ranking.
 
-## Contact
+## Contact Owner
 
-Abhijeet Bhattacharjee 
--Email - abhijeetlogin22@gmail.com
-
-Project Link: [https://github.com/abhijeet-codes/landing-page](https://github.com/abhijeet-codes/landing-page)
+Email - abhijeetlogin22@gmail.com
+Project Link: https://github.com/abhijeet-codes/landing-page
