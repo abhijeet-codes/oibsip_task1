@@ -200,7 +200,7 @@ main::before {
 
 .custgallerybox::before {
   content: "";
-  background: url("/images/3d-rendering-minimalist-interior-with-copy-space.jpg");
+  background: url("./images/3d-rendering-minimalist-interior-with-copy-space.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
