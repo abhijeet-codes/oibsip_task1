@@ -14,7 +14,7 @@ This repository contains the code for a simple landing page created using HTML a
 - Easy to navigate
 
 ## Usage
-
+Copy the files in a directory.  
 Open the `index.html` file in your preferred web browser to view the landing page.
 
 
