@@ -16,7 +16,7 @@ Open the `index.html` file in your preferred web browser to view the landing pag
 
 
 ## License
-Copyright &cp; Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
+Owner - Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
 
 ## Future Enhancements
 
@@ -26,7 +26,7 @@ Copyright &cp; Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
 
 ## Contact
 
-Abhijeet Bhattacharjee 
-Email - abhijeetlogin22@gmail.com
+-Abhijeet Bhattacharjee 
+-Email - abhijeetlogin22@gmail.com
 
 Project Link: [https://github.com/abhijeet-codes/landing-page](https://github.com/abhijeet-codes/landing-page)
