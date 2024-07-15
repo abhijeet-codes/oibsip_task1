@@ -1,4 +1,4 @@
-# Landing Page Project  
+# Landing Page Website  
 
 
 Project Link: https://github.com/abhijeet-codes/landing-page
