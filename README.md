@@ -26,7 +26,7 @@ Owner - Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
 
 ## Contact
 
--Abhijeet Bhattacharjee 
+Abhijeet Bhattacharjee 
 -Email - abhijeetlogin22@gmail.com
 
 Project Link: [https://github.com/abhijeet-codes/landing-page](https://github.com/abhijeet-codes/landing-page)
