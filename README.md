@@ -1,7 +1,7 @@
 # Landing Page Website  
 
 
-Project Link: https://github.com/abhijeet-codes/landing-page
+Project Link: https://github.com/abhijeet-codes/oibsip_task1
 
 ## Overview
 
