@@ -1,4 +1,7 @@
-# Landing Page Project
+# Landing Page Project  
+
+
+Project Link: https://github.com/abhijeet-codes/landing-page
 
 ## Overview
 
@@ -27,4 +30,3 @@ Owner - Abhijeet Bhattacharjee  (https://github.com/abhijeet-codes)
 ## Contact Owner
 
 Email - abhijeetlogin22@gmail.com
-Project Link: https://github.com/abhijeet-codes/landing-page
